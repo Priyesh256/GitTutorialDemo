@@ -2,4 +2,6 @@ first line
 changed by priyesh
 
 New changes by me
-again modified changes after staging
+again modified changes after stagingt 
+
+new changes on friday
